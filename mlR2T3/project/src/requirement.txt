@@ -1,0 +1,82 @@
+blas                       1.0              mkl
+bottleneck                 1.3.7            py38h9128911_0
+brotli                     1.2.0            ha8d9421_0
+brotli-bin                 1.2.0            h770e1de_0
+ca-certificates            2026.9.25        haa95532_0
+contourpy                  1.0.5            py38h59b6b97_0
+cycler                     0.11.0           pyhd3eb1b0_0
+filelock                   3.16.1           pypi_0              pypi
+fonttools                  4.51.0           py38h2bbff1b_0
+freetype                   2.14.3           he7b5929_0
+fsspec                     2025.3.0         pypi_0              pypi
+icu                        78.3             ha03e165_1
+importlib_resources        6.4.0            py38haa95532_0
+intel-openmp               2023.1.0         h59b6b97_46320
+jinja2                     3.1.6            pypi_0              pypi
+jpeg                       9f               h89d5625_1
+kiwisolver                 1.4.4            py38hd77b12b_0
+lcms2                      2.16             hb4a4139_0
+lerc                       3.0              hd77b12b_0
+libbrotlicommon            1.2.0            h907acca_0
+libbrotlidec               1.2.0            h02c67a5_0
+libbrotlienc               1.2.0            h483e6b9_0
+libclang13                 22.1.2           default_hdbb9c4d_2
+libdeflate                 1.17             h2bbff1b_1
+libffi                     3.4.8            h42d73b9_3
+libkrb5                    1.22.2           h3d06f0e_0
+libllvm22                  22.1.2           h48dad37_3
+libpng                     1.6.56           h2854ad3_0
+libpq                      17.10            hb13705e_2
+libtiff                    4.5.1            hd77b12b_0
+libwebp-base               1.6.0            hbf3958f_0
+libzlib                    1.3.2            h1c6eee0_0
+lz4-c                      1.9.4            h1c6eee0_5
+markupsafe                 2.1.5            pypi_0              pypi
+matplotlib                 3.7.2            py38haa95532_0
+matplotlib-base            3.7.2            py38h4ed8f06_0
+mkl                        2023.1.0         h6b88ed4_46358
+mkl-service                2.4.0            py38h2bbff1b_1
+mkl_fft                    1.3.8            py38h2bbff1b_0
+mkl_random                 1.2.4            py38h59b6b97_0
+mpmath                     1.3.0            pypi_0              pypi
+networkx                   3.1              pypi_0              pypi
+numexpr                    2.8.4            py38h7b80656_1
+numpy                      1.24.4           pypi_0              pypi
+numpy-base                 1.24.3           py38h8a87ada_1
+openjpeg                   2.5.2            hae555c5_0
+openssl                    3.5.9            hbb43b14_0
+packaging                  24.1             py38haa95532_0
+pandas                     2.0.3            py38h4ed8f06_0
+pillow                     10.4.0           py38h827c3e9_0
+pip                        24.2             py38haa95532_0
+ply                        3.11             py38_0
+pyparsing                  3.0.9            py38haa95532_0
+pyqt                       5.15.10          py38hd77b12b_0
+pyqt5-sip                  12.13.0          py38h2bbff1b_0
+python                     3.8.20           h8205438_0
+python-dateutil            2.9.0post0       py38haa95532_2
+python-tzdata              2026.4           pyhd3eb1b0_0
+pytz                       2024.1           py38haa95532_0
+qt-main                    5.15.2           h19ad0a1_14
+setuptools                 75.1.0           py38haa95532_0
+sip                        6.7.12           py38hd77b12b_0
+six                        1.16.0           pyhd3eb1b0_1
+sqlite                     3.53.4           hee5a0db_0
+sympy                      1.13.3           pypi_0              pypi
+tbb                        2021.8.0         h59b6b97_0
+tomli                      2.0.1            py38haa95532_0
+torch                      2.4.1            pypi_0              pypi
+torchaudio                 2.4.1            pypi_0              pypi
+torchvision                0.19.1           pypi_0              pypi
+tornado                    6.4.1            py38h827c3e9_0
+typing-extensions          4.13.2           pypi_0              pypi
+ucrt                       10.0.22621.0     haa95532_0
+unicodedata2               15.1.0           py38h2bbff1b_0
+vc                         14.3             h2df5915_12
+vc14_runtime               14.44.35208      h4927774_12
+vs2015_runtime             14.44.35208      ha6b5a95_12
+wheel                      0.44.0           py38haa95532_0
+xz                         5.8.4            hb851c79_0
+zipp                       3.20.2           py38haa95532_0
+zlib                       1.3.2            h1c6eee0_0
+zstd                       1.5.7            h56299aa_0
